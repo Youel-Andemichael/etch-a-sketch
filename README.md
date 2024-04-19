@@ -1,1 +1,1 @@
-# etch-a-sketch
+Created a webpage with a 16x16 grid of square divs using Javascript, while also using flexbox to make the divs appear as a grid.
