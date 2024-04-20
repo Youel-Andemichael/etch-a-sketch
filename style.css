@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-wrap: wrap; /* Allow flex items to wrap onto new lines */
+    justify-content: center;
+    align-items: flex-start; /* Align items to the start of the cross axis (top) */
+}
+.square{
+    box-sizing: border-box;
+    border: 1px solid black; /* Add borders to squares*/
+    padding: 8px;
+    width: 100% / 16; /* Set width of each square to 1/16 of the container width */
+    
+}
